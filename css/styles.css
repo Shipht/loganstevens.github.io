@@ -10023,7 +10023,7 @@ h3,
 h4,
 h5,
 h6 {
-  text-transform: none; /*uppercase -> none*/
+  text-transform: uppercase; /*uppercase -> none*/
 }
 
 h1 {
@@ -10037,7 +10037,7 @@ p.lead {
 
 .subheading {
   font-family: "Saira Extra Condensed", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  text-transform: none;
+  text-transform: none; /*uppercase -> none*/
   font-weight: 500;
   font-size: 1.5rem;
   color: #6c757d; /*!!*/
