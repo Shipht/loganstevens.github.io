@@ -4320,7 +4320,7 @@ input[type=button].btn-block {
   color: rgba(0, 0, 0, 0.5);
 }
 .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus { /*!!*/
-  color: rgba(48, 48, 48, 0.75);
+  color: #15171a;
 }
 .navbar-dark .navbar-nav .nav-link.disabled {
   color: rgba(255, 255, 255, 0.25);
@@ -10098,7 +10098,7 @@ p.lead {
   height: 3.5rem;
   width: 3.5rem;
   background-color: #495057;
-  color: rgb(26, 26, 26);
+  color: #15171a;
   border-radius: 100%;
   font-size: 1.5rem;
   margin-right: 1.5rem;
