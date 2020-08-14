@@ -10017,13 +10017,18 @@ body {
     padding-left: 17rem;
   }
 }
-h1,
+
+h1 {
+    text-transform: uppercase;
+}
+
+
 h2,
 h3,
 h4,
 h5,
 h6 {
-  text-transform: uppercase; /*uppercase -> none*/
+  text-transform: none; /*uppercase -> none*/
 }
 
 h1 {
