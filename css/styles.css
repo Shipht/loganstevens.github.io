@@ -67,10 +67,10 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
-  /*868e96 - New*/
+  /*color: 868e96 - New*/
   /*212529 - Old*/
   text-align: left;
-  background-color: #fff;
+  background-color: #15171a;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
