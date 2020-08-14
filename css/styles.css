@@ -10095,7 +10095,7 @@ p.lead {
   height: 3.5rem;
   width: 3.5rem;
   background-color: #495057;
-  color: #fff;
+  color: rgb(0, 0, 0); /*#fff*/
   border-radius: 100%;
   font-size: 1.5rem;
   margin-right: 1.5rem;
