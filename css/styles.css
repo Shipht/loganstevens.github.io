@@ -70,7 +70,7 @@ body {
   /*color: #868e96 - New*/
   /*212529 - Old*/
   text-align: left;
-  background-color: #15171a; /*#fff*/
+  background-color: #0c0e0f; /*#fff*/ /*15171a*/
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
