@@ -113,10 +113,9 @@ address {
 ol,
 ul,
 dl {
+  padding: 0; /*Overrides Defualt Style*/
   margin-top: 0;
   margin-bottom: 1rem;
-  
-  font-style: normal; /*!!*/
 }
 
 ol ol,
