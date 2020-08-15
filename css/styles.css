@@ -7522,6 +7522,10 @@ button.bg-dark:focus {
   margin-bottom: 0 !important;
 }
 
+.mb-00 {
+    color: #6c757d; /*!!*/
+}
+
 .ml-0,
 .mx-0 {
   margin-left: 0 !important;
