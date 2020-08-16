@@ -10156,8 +10156,7 @@ p.lead {
 
 .dev-pictures {
   position: relative;
-  left: 30px;
-  border: 3px solid #73AD21;
+  bottom: 5px;
 }
 
 section.resume-section {
