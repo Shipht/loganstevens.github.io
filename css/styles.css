@@ -10156,7 +10156,7 @@ p.lead {
 
 .dev-pictures {
   position: relative;
-  bottom: 2px; /*Was 5*/
+  bottom: 5px; /*Was 5*/
 }
 
 .dev-pictures-c-sharp {
